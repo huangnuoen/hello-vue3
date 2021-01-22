@@ -7,7 +7,7 @@ let app = createApp(App)
 
 app.component('blogTitle', {
   data: () => ({
-    blogTitle: '测试jenkins 打包+1'
+    blogTitle: '测试jenkins 打包+2'
   }),
   render() {
     return h(
