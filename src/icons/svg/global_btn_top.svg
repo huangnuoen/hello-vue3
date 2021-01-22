@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>btn_top</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <filter x="-31.2%" y="-28.8%" width="162.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="健康资讯" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="图文列表" transform="translate(-312.000000, -627.000000)" fill-rule="nonzero">
+            <g id="btn_top" transform="translate(320.000000, 634.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                </g>
+                <path d="M20.4063142,18.5665621 L24.5035159,24.2796767 C24.6644468,24.5040778 24.612994,24.8164511 24.3885929,24.977382 C24.3036442,25.0383035 24.2017374,25.0710678 24.0972017,25.0710678 L15.9027983,25.0710678 C15.6266559,25.0710678 15.4027983,24.8472102 15.4027983,24.5710678 C15.4027983,24.4665321 15.4355626,24.3646253 15.4964841,24.2796767 L19.5936858,18.5665621 C19.7546167,18.342161 20.06699,18.2907082 20.2913912,18.4516391 C20.3357101,18.4834228 20.3745305,18.5222432 20.4063142,18.5665621 Z" id="Rectangle" fill="#818999"></path>
+                <rect id="Rectangle" fill="#818999" x="15" y="15" width="10" height="1" rx="0.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

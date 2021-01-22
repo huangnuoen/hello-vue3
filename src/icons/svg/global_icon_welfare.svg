@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_welfare</title>
+    <g id="飞机稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="二级导航展开" transform="translate(-287.000000, -168.000000)" fill-rule="nonzero" stroke="#E8E8E8">
+            <g id="tabbar/福利/默认" transform="translate(287.000000, 168.000000)">
+                <g id="2">
+                    <path d="M11.0434783,2 C13.2286049,2 15,4.1110447 15,6.33333333 C15,11.3899595 8.9041811,15 7.99970394,15 C7.09522677,15 1,11.3899595 1,6.33333333 C1,4.1110447 2.77139512,2 4.95652174,2 C6.18043302,2 7.27454713,2.56517893 8.00029606,3.45291152 C8.72545287,2.56517893 9.81956698,2 11.0434783,2 Z" id="Path" stroke-width="0.82173913"></path>
+                    <g id="Group-3" transform="translate(6.000000, 6.000000)" stroke-width="0.8">
+                        <line x1="0" y1="2.5" x2="4" y2="2.5" id="Line-2"></line>
+                        <line x1="2.84147705e-14" y1="2.5" x2="4" y2="2.5" id="Line-2-Copy" transform="translate(2.000000, 2.500000) rotate(90.000000) translate(-2.000000, -2.500000) "></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

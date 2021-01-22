@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>order_icon_fold_up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="提交订单" stroke="none" stroke-width="1" fill-rule="evenodd">
+        <g id="提交订单/单订单/体检（默认）" transform="translate(-343.000000, -378.000000)">
+            <g id="btn-暂不填写" transform="translate(279.000000, 377.000000)">
+                <g id="Group" transform="translate(64.000000, 1.000000)">
+                    <circle id="椭圆形"  cx="8" cy="8" r="8"></circle>
+                    <path d="M6.10865241,4.4238849 C5.9386224,4.20623035 5.97178195,3.88755859 6.18271634,3.7121116 C6.39365072,3.5366646 6.70248338,3.57088058 6.87251339,3.78853512 L9.8913668,7.65295389 C10.0353624,7.8372819 10.0362991,8.09997852 9.89362201,8.28539494 L6.8747686,12.2085538 C6.70629544,12.4274935 6.39771515,12.4640536 6.18553525,12.2902131 C5.97335535,12.1163725 5.93792403,11.7979612 6.1063972,11.5790215 L8.88120402,7.973014 L6.10865241,4.4238849 Z" id="icon-arrowr" fill="#FFFFFF" fill-rule="nonzero" transform="translate(8.000000, 8.000000) scale(1, -1) rotate(-270.000000) translate(-8.000000, -8.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

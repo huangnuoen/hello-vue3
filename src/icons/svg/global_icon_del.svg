@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_del</title>
+    <g id="药品商城迭代" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="搜索页/默认" transform="translate(-343.000000, -316.000000)">
+            <g id="全局/图标/删除" transform="translate(343.000000, 316.000000)">
+                <g id="Group-2">
+                    <rect id="矩形" opacity="0" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+                    <path d="M6.66666667,1.33333333 L9.33333333,1.33333333 C9.88561808,1.33333333 10.3333333,1.78104858 10.3333333,2.33333333 L10.3333333,3.33333333 L10.3333333,3.33333333 L5.66666667,3.33333333 L5.66666667,2.33333333 C5.66666667,1.78104858 6.11438192,1.33333333 6.66666667,1.33333333 Z" id="Rectangle" stroke="#4D4D4D" stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M2.66666667,3.33333333 L13.3333333,3.33333333 L13.3333333,12.8333333 C13.3333333,13.7538079 12.5871412,14.5 11.6666667,14.5 L4.33333333,14.5 C3.41285875,14.5 2.66666667,13.7538079 2.66666667,12.8333333 L2.66666667,3.33333333 L2.66666667,3.33333333 Z" id="Rectangle-Copy" stroke="#4D4D4D" stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <line x1="1.33333333" y1="3.33333333" x2="14.6666667" y2="3.33333333" id="Line" stroke="#4D4D4D" stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="6" y1="7" x2="6" y2="10.6666667" id="Line-3" stroke="#4D4D4D" stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <line x1="10" y1="7" x2="10" y2="10.6666667" id="Line-3-Copy" stroke="#4D4D4D" stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

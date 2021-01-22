@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>mine_icon_file</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="94.4630505%" id="linearGradient-1">
+            <stop stop-color="#50D8D3" offset="0%"></stop>
+            <stop stop-color="#14CCC6" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#ADF3F0" offset="0%"></stop>
+            <stop stop-color="#5FE7E1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.23606798,0 L16.763932,0 C17.5214761,7.49019823e-16 18.2140024,0.428004752 18.5527864,1.10557281 L21.7888544,7.57770876 C21.9277098,7.85541963 22,8.16164576 22,8.47213595 L22,21 L22,21 L0,21 L0,8.47213595 C-3.80240818e-17,8.16164576 0.0722901835,7.85541963 0.211145618,7.57770876 L3.4472136,1.10557281 C3.78599762,0.428004752 4.47852386,5.83247807e-16 5.23606798,0 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#E6FFFE" offset="0%"></stop>
+            <stop stop-color="#BBFCFA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-310.000000, -451.000000)">
+            <g id="健康服务" transform="translate(0.000000, 401.000000)">
+                <g id="Group-7" transform="translate(25.000000, 50.000000)">
+                    <g id="5" transform="translate(285.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        <g id="Group-5" mask="url(#mask-3)">
+                            <g transform="translate(5.000000, 11.000000)">
+                                <mask id="mask-6" fill="white">
+                                    <use xlink:href="#path-5"></use>
+                                </mask>
+                                <use id="Path" stroke="none" fill="url(#linearGradient-4)" fill-rule="nonzero" xlink:href="#path-5"></use>
+                                <path d="M22,8 L22,21 L0,21 L0,8 L6.05069656,8.00030165 C6.39747459,9.69630166 8.48124082,11 11,11 C13.5187592,11 15.6025254,9.69630166 15.9493034,8.00030165 L22,8 Z" id="Combined-Shape" stroke="none" fill="url(#linearGradient-7)" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                                <rect id="Rectangle" stroke="none" fill="#4CD8D4" fill-rule="nonzero" mask="url(#mask-6)" x="8" y="13" width="6" height="1.5" rx="0.75"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

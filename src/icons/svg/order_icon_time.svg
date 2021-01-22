@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>order_icon_time</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.6%" y="-10.9%" width="123.1%" height="121.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="提交订单" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提交订单/多订单" transform="translate(-20.000000, -430.000000)" stroke="#FFAB11" stroke-width="1.2">
+            <g id="编组-18" filter="url(#filter-1)" transform="translate(8.000000, 116.000000)">
+                <g id="服务栏" transform="translate(0.000000, 271.000000)">
+                    <g id="submitorder_icon_timelimit" transform="translate(12.000000, 43.000000)">
+                        <g id="Group">
+                            <circle id="椭圆形" cx="8" cy="8" r="6.3"></circle>
+                            <line x1="8" y1="4.53377134" x2="8" y2="8" id="直线-4" stroke-linecap="round"></line>
+                            <line x1="11.2441524" y1="8" x2="8" y2="8" id="直线-4备份" stroke-linecap="round"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

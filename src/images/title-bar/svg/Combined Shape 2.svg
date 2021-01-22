@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Combined Shape 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="icon-切图" transform="translate(-187.000000, -54.000000)" fill="#fff" fill-rule="nonzero">
+            <g id="Combined-Shape-2" transform="translate(187.000000, 54.000000)">
+                <path d="M2.93137085,6.2 L3,6.2 C3.4418278,6.2 3.8,6.5581722 3.8,7 L3.8,12.2 L10.2,12.2 L10.2,7 C10.2,6.5581722 10.5581722,6.2 11,6.2 L11.0686292,6.2 L7,2.13137085 L2.93137085,6.2 Z M2.2,7.8 L1,7.8 C0.28727612,7.8 -0.0696573139,6.93828646 0.434314575,6.43431458 L6.43431458,0.434314575 C6.74673401,0.121895142 7.25326599,0.121895142 7.56568542,0.434314575 L13.5656854,6.43431458 C14.0696573,6.93828646 13.7127239,7.8 13,7.8 L11.8,7.8 L11.8,13 C11.8,13.4418278 11.4418278,13.8 11,13.8 L3,13.8 C2.5581722,13.8 2.2,13.4418278 2.2,13 L2.2,7.8 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

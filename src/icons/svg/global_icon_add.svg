@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_add</title>
+    <g id="实体类业务流程"  stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提交订单/无地址" transform="translate(-118.000000, -150.000000)">
+            <g id="提交订单/地址卡片/无地址" transform="translate(8.000000, 120.000000)">
+                <g id="全局/图标/添加" transform="translate(110.000000, 30.000000)">
+                    <g id="Group">
+                        <rect id="矩形" opacity="0" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+                        <rect id="Rectangle"  fill-rule="nonzero" x="6.25" y="9.47916667" width="7.5" height="1.04166667" rx="0.520833333"></rect>
+                        <rect id="Rectangle-Copy"  fill-rule="nonzero" transform="translate(10.000000, 10.000000) rotate(-270.000000) translate(-10.000000, -10.000000) " x="6.25" y="9.47916667" width="7.5" height="1.04166667" rx="0.520833333"></rect>
+                        <path d="M10,1.5625 C7.67381204,1.5625 5.56448665,2.50889325 4.0366619,4.03664799 C2.50896496,5.56427492 1.5625,7.67334363 1.5625,9.99958951 C1.5625,12.3259442 2.50900809,14.4352562 4.036765,15.9630831 C5.56457767,17.4909658 7.67385936,18.4375 10,18.4375 C12.3263436,18.4375 14.4354775,17.4909495 15.9631639,15.9631931 C17.4910355,14.4352516 18.4375,12.3257902 18.4375,9.99958951 C18.4375,7.67359599 17.4909546,5.56446384 15.9631612,4.03674046 C14.4353523,2.50900162 12.326102,1.5625 10,1.5625 Z" id="Fill-"  stroke-width="1.04166667"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

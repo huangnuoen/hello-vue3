@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icon_warning</title>
+    <desc>Created with Sketch.</desc>
+    <g id="实体类业务流程" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="药品详情/非处方药" transform="translate(-15.000000, -537.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="375" height="2049"></rect>
+            <g id="编组-4" transform="translate(0.000000, 521.000000)">
+                <g id="编组-3">
+                    <rect id="矩形备份-2" fill="#FFFFFF" x="0" y="0" width="375" height="48"></rect>
+                    <g id="icon_warning" transform="translate(15.000000, 16.000000)">
+                        <g id="警示">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <path d="M8,15 C4.15,15 1,11.85 1,8 C1,4.15 4.15,1 8,1 C11.85,1 15,4.15 15,8 C15,11.85 11.85,15 8,15 Z M8,14 C11.3,14 14,11.3 14,8 C14,4.7 11.3,2 8,2 C4.7,2 2,4.7 2,8 C2,11.3 4.7,14 8,14 Z M8,4.5 C8.3,4.5 8.5,4.7 8.5,5 L8.5,9 C8.5,9.3 8.3,9.5 8,9.5 C7.7,9.5 7.5,9.3 7.5,9 L7.5,5 C7.5,4.7 7.7,4.5 8,4.5 Z M8,11.5 C7.7,11.5 7.5,11.3 7.5,11 C7.5,10.7 7.7,10.5 8,10.5 C8.3,10.5 8.5,10.7 8.5,11 C8.5,11.3 8.3,11.5 8,11.5 Z" id="形状" fill="#FFAB11" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

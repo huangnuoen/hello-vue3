@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_arrow_down</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.712500 0 0 0 0 0.731250 0 0 0 0 0.750000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="一级页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-50.000000, -116.000000)">
+            <g id="图标/箭头/下" transform="translate(0.000000, 88.000000)" filter="url(#filter-1)">
+                <g transform="translate(50.000000, 28.000000)" id="Group" fill="#85878C" fill-rule="nonzero">
+                    <path d="M9.8232233,4.6767767 L6.1767767,8.3232233 C6.07914562,8.42085438 5.92085438,8.42085438 5.8232233,8.3232233 L2.1767767,4.6767767 C2.07914562,4.57914562 2.07914562,4.42085438 2.1767767,4.3232233 C2.22366079,4.27633921 2.28724927,4.25 2.35355339,4.25 L9.64644661,4.25 C9.7845178,4.25 9.89644661,4.36192881 9.89644661,4.5 C9.89644661,4.56630412 9.8701074,4.6298926 9.8232233,4.6767767 Z" id="Rectangle"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

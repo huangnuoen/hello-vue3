@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>home_icon_change</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-单屏" transform="translate(-155.000000, -633.000000)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(0.000000, 64.000000)">
+                <g id="今日推荐" transform="translate(0.000000, 166.000000)">
+                    <g id="home_icon_change" transform="translate(155.000000, 403.000000)">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                        <g id="Group-6" transform="translate(2.000000, 0.000000)">
+                            <path d="M10.2426407,3.75735931 C9.15685425,2.67157288 7.65685425,2 6,2 C2.6862915,2 0,4.6862915 0,8 C0,11.3137085 2.6862915,14 6,14 C9.3137085,14 12,11.3137085 12,8" id="Path" stroke="#818999" stroke-width="1.2" stroke-linecap="round"></path>
+                            <polygon id="Triangle" fill="#818999" transform="translate(10.789735, 3.819304) rotate(-240.000000) translate(-10.789735, -3.819304) " points="10.7897352 1.81930407 13.2897352 5.81930407 8.28973521 5.81930407"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

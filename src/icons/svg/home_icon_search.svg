@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>home_icon_search</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-单屏" transform="translate(-61.000000, -84.000000)">
+            <g id="Group-3" transform="translate(0.000000, 64.000000)" fill-rule="nonzero">
+                <g id="导航栏">
+                    <rect id="Rectangle"  x="0" y="0" width="375" height="56"></rect>
+                    <g id="搜索框" transform="translate(51.000000, 10.000000)">
+                        <rect id="Rectangle"  x="0" y="0" width="273" height="36" rx="18"></rect>
+                        <g id="Group" transform="translate(10.000000, 10.000000)" stroke="#8C8C8C" stroke-linecap="round">
+                            <circle id="Oval" cx="8" cy="8" r="5"></circle>
+                            <line x1="12" y1="12" x2="14" y2="14" id="Line"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

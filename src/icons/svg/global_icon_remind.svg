@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>global_icon_remind</title>
+    <desc>Created with Sketch.</desc>
+    <g id="疾病、药品百科"  stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="疾病详情" transform="translate(-15.000000, -233.000000)">
+            <g id="Group" transform="translate(0.000000, 220.000000)">
+                <g id="全局/图标/提醒" transform="translate(15.000000, 13.000000)">
+                    <g id="Group-2">
+                        <rect id="矩形" opacity="0" fill-rule="nonzero" x="0" y="0" width="16" height="16"></rect>
+                        <path d="M8,2.33333333 C10.7614237,2.33333333 13,4.57190958 13,7.33333333 L13,11.6666667 L14,13.3333333 L2,13.3333333 L3,11.6666667 L3,7.33333333 C3,4.57190958 5.23857625,2.33333333 8,2.33333333 Z" id="Path"  stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="10.6666667" y1="7" x2="10.6666667" y2="10.6666667" id="Line-3-Copy"  stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M6.5,13.5 C6.5,14.3284271 7.17157288,15 8,15 C8.82842712,15 9.5,14.3284271 9.5,13.5" id="Path"  stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="8.08333333" y1="2.25" x2="8.08333333" y2="0.916666667" id="Line-4"  stroke-width="0.833333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

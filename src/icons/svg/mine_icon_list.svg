@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>mine_icon_list</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="88.0747006%" id="linearGradient-1">
+            <stop stop-color="#E789FA" offset="0%"></stop>
+            <stop stop-color="#C36DD9" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <linearGradient x1="80.6238185%" y1="0%" x2="19.3761815%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F5C4FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.6,0 L13,0 L13,0 L18,5 L18,20.4 C18,21.8359403 16.8359403,23 15.4,23 L2.6,23 C1.16405965,23 1.06403039e-15,21.8359403 0,20.4 L0,2.6 C-1.75851975e-16,1.16405965 1.16405965,-1.80311247e-16 2.6,0 Z" id="path-5"></path>
+        <filter x="-36.1%" y="-23.9%" width="172.2%" height="156.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.763916667   0 0 0 0 0.1335   0 0 0 0 0.89  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="21.5850411%" y1="7.45682621%" x2="100%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EA80FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-172.000000, -451.000000)">
+            <g id="健康服务" transform="translate(0.000000, 401.000000)">
+                <g id="Group-7" transform="translate(25.000000, 50.000000)">
+                    <g id="3" transform="translate(147.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        <g id="入职" mask="url(#mask-3)" fill-rule="nonzero">
+                            <g transform="translate(7.000000, 11.000000)">
+                                <g id="Rectangle" fill="none">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                                </g>
+                                <rect id="Rectangle" fill="#D47FE7" x="2.07692308" y="6.92307692" width="8.30769231" height="1.5" rx="0.75"></rect>
+                                <rect id="Rectangle-Copy-17" fill="#D47FE7" x="2.07692308" y="10.4230769" width="4.84615385" height="1.5" rx="0.75"></rect>
+                                <path d="M18,0 L18,3 C18,4.1045695 17.1045695,5 16,5 L13,5 L13,5 L18,0 Z" id="Rectangle" fill="url(#linearGradient-7)" transform="translate(15.500000, 2.500000) scale(-1, 1) translate(-15.500000, -2.500000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

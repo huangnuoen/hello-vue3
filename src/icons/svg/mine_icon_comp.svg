@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mine_icon_comp</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="94.4630505%" id="linearGradient-1">
+            <stop stop-color="#FF8547" offset="0%"></stop>
+            <stop stop-color="#FE6929" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFF9F5" offset="0%"></stop>
+            <stop stop-color="#FFD4BB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11.9004704,15.0497639 C12.8285058,15.6918046 14.1957238,16 16,16 C17.8036391,16 19.1705286,15.6920222 20.0985464,15.0504439 C23.5773238,16.8994193 26,20.9373464 26,25 C26,30.5228475 21.5228475,34 16,34 C10.4771525,34 6,30.5228475 6,25 C6,21.0320525 8.31104078,17.0876922 11.6605362,15.1812227 Z M16,9 C17.3435462,9 17.3378252,10.1256082 17.9970987,10.4529801 C18.5484957,10.7267844 21.2658884,9.72678435 21,11 C20.7976275,11.9690677 20.054153,13.286975 19.1658625,14.4408143 C18.4312616,14.8083723 17.3761162,15 16,15 C14.6122009,15 13.5508458,14.8051047 12.814578,14.4316931 L12.9299852,14.5783103 C11.9910997,13.3933853 11.1960387,12.007983 11,11 C10.7525555,9.7277009 13.5027967,10.7277009 14.0098652,10.4539636 C14.6544836,10.1059711 14.6550417,9 16,9 Z" id="path-5"></path>
+        <filter x="-32.5%" y="-22.0%" width="165.0%" height="152.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.8   0 0 0 0 0.373333333   0 0 0 0 0.16  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-102.000000, -539.000000)">
+            <g id="Group-14" transform="translate(0.000000, 401.000000)">
+                <g id="Group-15" transform="translate(88.000000, 138.000000)">
+                    <g id="Group-7" transform="translate(14.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        <g id="Combined-Shape" fill-rule="nonzero" mask="url(#mask-3)">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        </g>
+                        <path d="M18.7729079,19.6831356 C19.0303218,19.9212917 19.0712906,20.3118791 18.883574,20.5978369 L18.8203863,20.6802283 L17.201,22.499 L18.25,22.5 C18.6642136,22.5 19,22.8357864 19,23.25 C19,23.6642136 18.6642136,24 18.25,24 L16.75,23.999 L16.75,24.999 L18.25,25 C18.6642136,25 19,25.3357864 19,25.75 C19,26.1642136 18.6642136,26.5 18.25,26.5 L16.749,26.499 L16.75,28 C16.75,28.4142136 16.4142136,28.75 16,28.75 C15.5857864,28.75 15.25,28.4142136 15.25,28 L15.249,26.499 L13.75,26.5 C13.3357864,26.5 13,26.1642136 13,25.75 C13,25.3357864 13.3357864,25 13.75,25 L15.25,24.999 L15.25,23.999 L13.75,24 C13.3357864,24 13,23.6642136 13,23.25 C13,22.8357864 13.3357864,22.5 13.75,22.5 L14.804,22.499 L13.1804781,20.6811982 C12.9230191,20.3929778 12.9434628,19.9465247 13.2261404,19.6840174 C13.4831201,19.4453743 13.8683557,19.4409064 14.1297075,19.6586106 L14.2041444,19.730575 L16.0036921,21.743767 L17.7949904,19.731545 C18.0519241,19.4428376 18.4897527,19.421164 18.7729079,19.6831356 Z" id="Combined-Shape" fill="#FC7632" fill-rule="nonzero" mask="url(#mask-3)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

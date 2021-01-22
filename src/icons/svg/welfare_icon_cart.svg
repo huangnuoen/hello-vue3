@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>welfare_icon_cart</title>
+    <g id="福利商城首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-336.000000, -82.000000)" id="搜索栏">
+            <g transform="translate(0.000000, 64.000000)">
+                <g id="首页/图标/消息" transform="translate(336.000000, 18.000000)">
+                    <g id="Group">
+                        <g id="Group-2" transform="translate(1.500000, 2.000000)">
+                            <path d="M0,0 L1.77808835,15.2318944 C1.85764935,15.9134493 2.27382234,16.4816635 2.84873955,16.778225 M7.77545619,17 C10.2586264,17 12.0305393,17 13.2721244,17 M18.2821051,16.7807835 C18.8077315,16.5116725 19.2037787,16.0150697 19.3299563,15.4052112 L21.5023701,4.90521121 C21.7261621,3.82355002 21.0307217,2.76527113 19.9490605,2.54147916 C19.8157537,2.51389845 19.6799793,2.5 19.5438493,2.5 L5,2.5" id="Shape" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="5.25" cy="17.5" r="2.5"></circle>
+                            <circle id="Oval-Copy-4" stroke="#4D4D4D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="15.75" cy="17.5" r="2.5"></circle>
+                            <rect id="Rectangle" fill="#4D4D4D" fill-rule="nonzero" x="6" y="8.75" width="10" height="1.5" rx="0.75"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

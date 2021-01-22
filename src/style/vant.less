@@ -1,0 +1,97 @@
+.van-dialog {
+  border-radius: 16px;
+  .van-dialog__header {
+    padding-top: 32px;
+    font-size: 36px;
+  }
+
+  .van-dialog__content {
+    padding: 32px 20px 32px;
+  }
+  .van-dialog__message {
+    padding: 20px 36px 10px;
+    font-weight: 400;
+    // padding: 0;
+    font-size: 32px;
+    color: @black-l;
+    letter-spacing: 2px;
+    line-height: 48px;
+    &--has-title {
+      font-size: 32px;
+      color: @black-l;
+      font-size: 28px;
+    }
+  }
+  .van-dialog__footer {
+    text-align: center;
+    .van-dialog__confirm {
+      width: 220px;
+      border-radius: 40px;
+      background-color: @theme;
+      height: 70px;
+      line-height: 70px;
+      color: #fff;
+      margin-bottom: 20px;
+
+      &.van-hairline--left::after {
+        border-color: transparent;
+      }
+    }
+  }
+  .van-dialog__footer--buttons {
+    justify-content: space-around;
+    align-items: center;
+    height: 110px;
+    padding: 0 24px;
+
+    .van-button {
+      width: 220px;
+      flex: 0 0 220px;
+      border-radius: 40px;
+      height: 70px;
+      line-height: 70px;
+      font-size: 28px;
+      background-color: #f0f2f2;
+      color: @black-m;
+      margin: auto;
+      &.van-dialog__confirm {
+        color: #fff;
+        background-color: @theme;
+      }
+    }
+  }
+
+  .van-hairline--top::after {
+    border-top: 0;
+  }
+}
+.van-dropdown-menu {
+  .van-dropdown-menu__title {
+    color: @black-m;
+    font-size: 28px;
+  }
+  &::after {
+    border: none;
+  }
+  .van-dropdown-item__content {
+    border-radius: 0 0 20px 20px;
+  }
+}
+.van-picker {
+  .van-picker__cancel,
+  .van-picker__confirm {
+    color: @theme;
+  }
+}
+.van-info {
+  display: table-cell;
+  vertical-align: middle;
+}
+.van-search {
+  input {
+    font-size:30px;
+    &::-webkit-input-placeholder {
+      color: @grey-l;
+    }
+  }
+}

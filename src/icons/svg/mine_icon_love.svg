@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>mine_icon_love</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="92.166345%" id="linearGradient-1">
+            <stop stop-color="#FF99BB" offset="0%"></stop>
+            <stop stop-color="#FC6A8F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="福利" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-151.000000, -818.000000)">
+            <rect fill="#F7F7F7" x="0" y="0" width="375" height="1556"></rect>
+            <rect id="bg" fill="#FFFFFF" fill-rule="nonzero" x="0" y="802" width="376" height="656"></rect>
+            <g id="猜你喜欢" transform="translate(131.000000, 818.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                <g id="Path-8" transform="translate(20.000000, 0.000000)">
+                    <path d="M8.72727273,1 C10.5347501,1 12,2.55455187 12,4.47218879 C12,6.38982571 10.435276,9.73290383 6.00152111,12 C1.64336637,9.69170874 0,6.38982571 0,4.47218879 C0,2.55455187 1.46524991,1 3.27272727,1 C4.41205998,1 5.41541419,1.61767584 6.00152111,2.55461637 C6.58458581,1.61767584 7.58794002,1 8.72727273,1 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

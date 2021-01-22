@@ -1,0 +1,50 @@
+@import '~@/style/mixin.less';
+.bold {
+  font-weight: 500;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.fr {
+  float: right;
+}
+
+.fl {
+  float: left;
+}
+.special-title {
+  display: flex;
+  align-items: center;
+
+  &::before {
+    content: '';
+    display: inline-block;
+    background: @linearBg;
+    width: 24px;
+    height: 24px;
+    border-radius: 8px;
+    margin-right: 16px;
+  }
+}
+.fixed-bottom {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+input {
+  .placeholder(@grey-l);
+  font-size: 30px;
+}
+img[src=""],img:not([src]){opacity:0;}  
+
+// 骨架屏
+.skeleton-ele {
+  animation: fade 1s infinite alternate;
+}
+@keyframes fade {
+  form {opacity: 1;}
+  to {opacity: 0.7;}
+}

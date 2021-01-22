@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>order_icon_safe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.6%" y="-10.9%" width="123.1%" height="121.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="提交订单" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="提交订单/多订单" transform="translate(-20.000000, -456.000000)" fill-rule="nonzero" stroke="#FFAB11">
+            <g id="编组-18" filter="url(#filter-1)" transform="translate(8.000000, 116.000000)">
+                <g id="服务栏" transform="translate(0.000000, 271.000000)">
+                    <g id="submitorder_icon_right备份" transform="translate(11.000000, 68.000000)">
+                        <g id="submitorder_icon_right" transform="translate(0.500000, 0.350000)">
+                            <path d="M3,4 C4.33020467,4 6.163538,3.33333333 8.5,2 C10.8458279,3.33333333 12.6791613,4 14,4 C15.5,10.2660427 11.1370796,14.65 8.5,14.65 C5.86292041,14.65 1.5,10.2660427 3,4 Z" id="Rectangle" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M11.0252862,6.78191246 C10.8900908,6.66300572 10.6832257,6.67766546 10.5659478,6.81286078 L8.24319434,9.47930358 L6.67948934,8.08174224 C6.54592288,7.96120664 6.33905773,7.97423752 6.220151,8.10780399 C6.09961541,8.24137046 6.11264628,8.4482356 6.24621275,8.56714233 L8.05587552,10.1829708 C8.11614331,10.2367232 8.1926997,10.2660427 8.27251381,10.2660427 L8.29368898,10.2660427 C8.38001853,10.2611561 8.4614615,10.2204346 8.51847158,10.1552802 L11.0578633,7.2412508 C11.1751412,7.10605547 11.1604815,6.89919033 11.0252862,6.78191246 L11.0252862,6.78191246 Z" id="路径" stroke-width="0.5" fill="#FFAB11"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

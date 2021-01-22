@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_cart</title>
+    <g id="实体类业务流程" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="药品详情/处方药" transform="translate(-107.000000, -2043.000000)">
+            <g id="商品详情/底部操作栏" transform="translate(0.000000, 2031.000000)">
+                <g id="全局/图标/客服-copy-2">
+                    <g transform="translate(107.000000, 12.000000)">
+                        <rect id="矩形备份" stroke="#4D4D4D" stroke-width="1.04166667" stroke-linecap="round" stroke-linejoin="round" x="2.70833333" y="2.5" width="14.5833333" height="15.8333333" rx="2.08333333"></rect>
+                        <rect id="Rectangle备份" fill="#4D4D4D" fill-rule="nonzero" x="5.83333333" y="8.33333333" width="8.33333333" height="1.04166667" rx="0.520833333"></rect>
+                        <rect id="Rectangle备份-2" fill="#4D4D4D" fill-rule="nonzero" x="5.83333333" y="12.2916667" width="8.33333333" height="1.04166667" rx="0.520833333"></rect>
+                        <rect id="矩形" stroke="#4D4D4D" stroke-width="1.04166667" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" x="6.04166667" y="1.25" width="7.91666667" height="2.5" rx="1.25"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

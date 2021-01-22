@@ -1,0 +1,52 @@
+.book {
+  background-color: #fff;
+  padding-bottom: 32px;
+  margin-top: 0px;
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 32px;
+    align-items: center;
+    h3 {
+      .title {
+        font-size: 32px;
+        font-weight: 500;
+        color: @black-d;
+      }
+      .tips {
+        font-size: 24px;
+        color: @grey;
+      }
+    }
+    button {
+      color: @theme;
+      font-size: 28px;
+      padding-right: 10px;
+      svg {
+        transition: all 0.3s;
+      }
+      &.down {
+        svg {
+          transform: rotate(180deg);
+        }
+      }
+    }
+  }
+  .form {
+    border-radius: 16px;
+    width: 718px;
+    margin: 32px auto 0;
+    padding: 0 32px;
+    background-color: #f9f9f9;
+    color: @black-m;
+    .form-btn {
+      /deep/ .label {
+        color: @black-d;
+        font-weight: 500;
+      }
+      /deep/ .btn {
+        font-size: 26px;
+      }
+    }
+  }
+}

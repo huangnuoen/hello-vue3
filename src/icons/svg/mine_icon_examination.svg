@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>mine_icon_examination</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="91.2895247%" id="linearGradient-1">
+            <stop stop-color="#4BC0FA" offset="0%"></stop>
+            <stop stop-color="#32A3FA" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#EFFAFF" offset="0%"></stop>
+            <stop stop-color="#C3EEFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.2307692,7.67078661e-14 C16.7601732,7.64269192e-14 18,1.23982685 18,2.76923077 L18,18 C18,19.5294039 16.7601732,20.7692308 15.2307692,20.7692308 L2.76923077,20.7692308 C1.23982685,20.7692308 1.87297962e-16,19.5294039 0,18 L0,2.76923077 C-1.87297962e-16,1.23982685 1.23982685,7.69888131e-14 2.76923077,7.67078661e-14 L4.55727573,0.000306063228 C5.30518996,1.22269206 7.01293354,2.07692308 9,2.07692308 C10.9870665,2.07692308 12.69481,1.22269206 13.4427243,0.000306063228 L15.2307692,7.67078661e-14 Z" id="path-5"></path>
+        <filter x="-19.4%" y="-12.0%" width="138.9%" height="133.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.2523   0 0 0 0 0.628946341   0 0 0 0 0.87  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的" transform="translate(-34.000000, -451.000000)">
+            <g id="健康服务" transform="translate(0.000000, 401.000000)">
+                <g id="Group-7" transform="translate(25.000000, 50.000000)">
+                    <g id="1" transform="translate(9.000000, 0.000000)">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Oval" fill="url(#linearGradient-1)" fill-rule="nonzero" xlink:href="#path-2"></use>
+                        <g id="Group" mask="url(#mask-3)">
+                            <g transform="translate(7.000000, 10.000000)">
+                                <g id="Group-2" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 2.076923)">
+                                    <mask id="mask-6" fill="white">
+                                        <use xlink:href="#path-5"></use>
+                                    </mask>
+                                    <g id="Combined-Shape">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                                        <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    </g>
+                                    <path d="M10.7307692,7.26923077 C11.8778222,7.26923077 12.8076923,8.1991009 12.8076923,9.34615385 C12.8076923,10.4932068 11.8146944,12.4929011 9.00096532,13.8489864 C6.23521327,12.4682598 5.19230769,10.4932068 5.19230769,9.34615385 C5.19230769,8.1991009 6.12217783,7.26923077 7.26923077,7.26923077 C7.99226883,7.26923077 8.62901285,7.63869951 9.00096532,8.19913948 C9.37098715,7.63869951 10.0077312,7.26923077 10.7307692,7.26923077 Z" id="Path" fill="#39ABFA" fill-rule="nonzero" mask="url(#mask-6)"></path>
+                                </g>
+                                <path d="M9.00799136,2.76923077 C10.9197463,2.76923077 12.4615385,1.85609643 12.4615385,1.09139447 C12.4615385,0.32669251 10.9197463,0 9.00799136,0 C7.09623646,0 5.53846154,0.32669251 5.53846154,1.09139447 C5.53846154,1.85609643 7.09623646,2.76923077 9.00799136,2.76923077 Z" id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.800000012"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

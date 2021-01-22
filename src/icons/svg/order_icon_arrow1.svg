@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="11px" viewBox="0 0 5 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>order_icon_arrow1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-11.6%" y="-18.1%" width="123.1%" height="136.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="提交订单" stroke="none" stroke-width="1"  fill-rule="evenodd">
+        <g id="提交订单/单订单/体检（默认）" transform="translate(-188.000000, -138.000000)" fill-rule="nonzero">
+            <g id="套餐详情" filter="url(#filter-1)" transform="translate(8.000000, 116.000000)">
+                <g id="医院名称">
+                    <g id="Group" transform="translate(180.000000, 22.000000)">
+                        <path d="M0.135815512,1.02985612 C-0.0767219995,0.75778794 -0.0352725635,0.359448239 0.228395419,0.140139496 C0.492063401,-0.0791692476 0.878104229,-0.0363992742 1.09064174,0.235668905 L4.8642085,5.06619237 C5.04420298,5.29660237 5.04537391,5.62497316 4.86702751,5.85674368 L1.09346075,10.7606922 C0.882869297,11.0343669 0.497143944,11.0800671 0.231919063,10.8627664 C-0.0333058173,10.6454657 -0.0775949577,10.2474515 0.132996499,9.97377682 L3.60150503,5.4662675 L0.135815512,1.02985612 Z" id="icon-arrowr"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

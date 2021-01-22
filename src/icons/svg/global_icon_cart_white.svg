@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>global_icon_cart</title>
+    <g id="飞机稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="二级导航展开" transform="translate(-287.000000, -248.000000)" fill-rule="nonzero">
+            <g id="全局/图标/购物车" transform="translate(287.000000, 248.000000)">
+                <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                    <path d="M1,0.5 L2.17434995,10.1979917 C2.23515302,10.7001143 2.66130736,11.0777778 3.16709796,11.0777778 L10.9695111,11.0777778 C11.4407969,11.0777778 11.8481147,10.7487218 11.9471725,10.2879639 L13.4568708,3.2657417 C13.5729534,2.72579423 13.2293431,2.19397677 12.6893956,2.07789417 C12.6203195,2.06304358 12.5498639,2.05555556 12.4792095,2.05555556 L4.11111111,2.05555556 L4.11111111,2.05555556" id="Path-12" stroke="#E8E8E8" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval" fill="#E8E8E8" cx="3.75" cy="13.25" r="1"></circle>
+                    <circle id="Oval-Copy" fill="#E8E8E8" cx="10.25" cy="13.25" r="1"></circle>
+                    <rect id="Rectangle" fill="#E8E8E8" x="4.5" y="6.28888889" width="5.5" height="1" rx="0.435555556"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

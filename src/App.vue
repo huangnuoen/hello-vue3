@@ -1,38 +1,36 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about" user="Mike">About</router-link>
+  <div id="app">
+    <TitleBar v-if="$route.meta.titleBar" :config="$store.state.titleBar"></TitleBar>
+    <keep-alive :include="$store.state.keepAlivePages" max="5">
+      <router-view></router-view>
+    </keep-alive>
+    <LoadingV1 v-if="loading"></LoadingV1>
+    <!-- <TabBar></TabBar> -->
   </div>
-  <blogTitle></blogTitle>
-  <ButtonCounter></ButtonCounter>
-  <router-view />
 </template>
 <script>
+// import TabBar from '@/components/index/TabBar'
+import TitleBar from '@/base/TitleBar/TitleBar'
+import loadMapMixin from '@/mixins/loadMapMixin'
+import partnerCardMixin from '@/mixins/partnerCardMixin'
+import LoadingV1 from '@/base/loading/LoadingV1'
 export default {
-  mounted() {
-    console.log(this)
-  }
+  components: { TitleBar, LoadingV1 },
+  mixins: [loadMapMixin],
+  computed: {
+    loading() {
+      return this.$store.state.loading
+    }
+  },
+  mounted() {}
 }
 </script>
 <style lang="less">
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  // router-view 需要满屏的自行加flex:1
 }
 </style>
