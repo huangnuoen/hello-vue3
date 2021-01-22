@@ -1,11 +1,19 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about" user="Mike">About</router-link>
   </div>
+  <blogTitle></blogTitle>
+  <ButtonCounter></ButtonCounter>
   <router-view />
 </template>
-
+<script>
+export default {
+  mounted() {
+    console.log(this)
+  }
+}
+</script>
 <style lang="less">
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
